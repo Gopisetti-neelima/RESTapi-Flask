@@ -1,2 +1,2 @@
 # RESTapi-Flask
-Developing a REST api using flask module of package
+A REST API using flask framework in python
